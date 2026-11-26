@@ -1,16 +1,13 @@
-## Hi there 👋
+# Cristiam Veiga
 
-<!--
-**cristiamvp/cristiamvp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projetos de desenvolvimento web e ferramentas para rotinas de TI.
 
-Here are some ideas to get you started:
+## Projetos em destaque
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Projeto | O que você encontra | Tecnologias |
+| --- | --- | --- |
+| [Inventário de ativos de TI](https://github.com/cristiamvp/controle) | Cadastro, pesquisa, atualização e exportação de ativos. | PHP, JavaScript, Bootstrap |
+| [Estudo com Spring Boot](https://github.com/cristiamvp/springboot) | Projeto de estudo com dependências para aplicação web, persistência JPA e segurança. | Java 11, Spring Boot, Maven |
+| [API em Go](https://github.com/cristiamvp/projeto_go_alura) | Fork de um projeto de curso da Alura, com estrutura de API, testes e ambiente Docker. | Go, Gin, Docker |
+
+Também mantenho exercícios de [Vue.js](https://github.com/cristiamvp/b7webteste) e [CSS Flexbox](https://github.com/cristiamvp/htmlcssteste).
